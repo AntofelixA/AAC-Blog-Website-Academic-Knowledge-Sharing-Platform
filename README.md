@@ -25,6 +25,23 @@ This platform allows students from **MCA, BCA, and BSc.CS** to stay informed abo
 
 ---
 
+---
+
+## 📺 Project System Walkthrough
+
+Experience the full capabilities of our platform in real time! Click the streaming action panel link below to watch the live application walkthrough.
+
+<p align="center">
+  <h3>👉 <a href="https://antofelixa.github.io/Portfolio-site/asset/Departmental%20Blog%20Site%20-%20video%20demo.mp4" target="_blank" rel="noopener noreferrer">▶ WATCH LIVE DEMO STREAM</a> 🚀</h3>
+</p>
+
+<br>
+
+> 💡 **Streaming Performance:** This video walks through our full system architecture (User Login, Blog Creation, and Admin Validation Panels). Clicking the active link above instantly streams the `.mp4` file in a clean, separate browser window tab without any download bottlenecks.
+
+---
+
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
