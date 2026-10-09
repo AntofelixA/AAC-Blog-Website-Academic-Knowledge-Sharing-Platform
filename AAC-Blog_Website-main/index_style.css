@@ -1,0 +1,165 @@
+body, h1, h2, p, button {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+  padding: 10px 20px;
+  height: 110px;
+}
+
+.logo-left img,
+.logo-right img {
+  width: 110px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 40px;
+}
+
+ .title {
+  flex-grow: 1;
+  text-align: center;
+
+} 
+
+.title h1 {
+  color: white;
+  font-size: 45px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-family: Times New Roman;
+   word-spacing: 16px;
+} 
+
+.title p {
+  color: white;
+  font-size: 23px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-family:Times New Roman;
+   word-spacing: 5px;
+} 
+
+.log button {
+  position: absolute;
+  left: 73%;
+  top: 83px ;
+  padding: 10px 24px; 
+  font-size: 18px; 
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.log button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.about button {
+  position: absolute;
+  left: 82%;
+  top: 83px ;
+  padding: 10px 24px; 
+  font-size: 18px; 
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.about button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.login-form input {
+  padding: 5px;
+  font-size: 14px;
+}
+
+.login-form button,
+.header-right button {
+  padding: 5px 10px;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.login-form button:hover,
+.header-right button:hover {
+  background: linear-gradient(to right, #2575fc, #6a11cb);
+}
+
+.img1 {
+  width: 97.4%;
+  height: 300px;
+  background-image: url('Image/bc.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+ 
+}
+
+.img1 h1 {
+  color: white;
+  font-size: 48px;
+  padding: 10px 20px;
+
+}
+
+.img1 p {
+  color: white;
+  font-size: 18px;
+  padding: 8px 15px;
+    word-spacing: 5px;
+    font-family:Verdana;
+    font-size: 25px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 150px;
+  padding: 30px;
+  background-color: #fff;
+}
+
+.card {
+  background: linear-gradient(to bottom right, #6268d5, #b3b7fe);
+  width: 350px;
+  height: 180px;
+  border: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  font-weight: bold;
+  font-size: 30px;
+
+  font-family:Times New Roman;
+}

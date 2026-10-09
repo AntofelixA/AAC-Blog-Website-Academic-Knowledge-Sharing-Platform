@@ -1,0 +1,50 @@
+body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom, #1E90FF, #87CEFA);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    .container {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .box {
+      padding: 30px;
+      flex: 1;
+      min-width: 250px;
+    }
+
+    .box img, .box i {
+      width: 80px;
+      margin-bottom: 10px;
+    }
+
+    .count {
+      font-size: 48px;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+
+    .label {
+      font-size: 18px;
+    }
+
+    .courses {
+      font-size: 36px;
+      font-weight: bold;
+      line-height: 1.5;
+    }
+
+    .course-label {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+  

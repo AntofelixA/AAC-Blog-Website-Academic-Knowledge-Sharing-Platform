@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #111;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.contact-container {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.college-logo {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 10px 0;
+  line-height: 1.4;
+}
+
+h2 span {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+.email {
+  font-weight: bold;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.map-container {
+  margin-top: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
