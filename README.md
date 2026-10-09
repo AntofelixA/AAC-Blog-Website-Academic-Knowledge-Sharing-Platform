@@ -73,3 +73,17 @@ This project was successfully engineered and deployed by a dedicated team of **8
 * Scaling the infrastructure to handle college-wide user traffic.
 * Implementing live real-time notifications for post approvals and comment replies.
 * Adding an AI-based text filter to pre-screen comments before manual admin review.
+
+## 👥 Contributors
+
+This project was built with ❤️ by **Team: TECH DYMAMOS**. Feel free to connect with us!
+
+### 💻 Development Team (MCA Classmates)
+* **[J. TONI VASANTH](https://github.com/Tonivasanth)** (Roll No: 24MCA506) – *Team Leader & Backend Architecture*
+* **[A. ANTO FELIX](https://github.com/AntofelixA)** (Roll No: 24MCA501) – *Documentation & Blog Design*
+* **[R. SIVARAJAN](https://github.com/sivaranjan-r)** (Roll No: 24MCA503) – *Frontend Engineering & UI Design*
+* **[K. MUTHUPANDI](https://github.com/Muthupandi1234)** (Roll No: 24MCA510) – *Backend Implementation & Logic*
+* **[M. VIJAY](https://github.com)** (Roll No: 24MCA512) – *Recorrection Dashboard Development*
+* **[M. KESHAVAKUMAR](https://github.com)** (Roll No: 24MCA513) – *Interactive Comment Section Feature*
+* **[V. MITHUN](https://github.com)** (Roll No: 24MCA509) – *About Page Interface*
+* **[S. RAJAN](https://github.com)** (Roll No: 24MCA508) – *Blog Creation Workflow & Interface*
